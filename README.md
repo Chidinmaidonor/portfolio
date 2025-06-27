@@ -21,7 +21,7 @@
 
 ## Projects
 ### **🛣️ A Basic PLC Traffic Controller Using TIA Portal** 
-[GitHub Repo »](https://github.com/yourusername/plc-traffic-ai)
+[GitHub Repo »](/https://github.com/Chidinmaidonor/PLC-Project-Traffic-Light-Control-System-without-HMI-in-Siemens-TIA-Portal.git)
 
 This project demonstrates the development of a basic PLC-based traffic light control system using Siemens TIA Portal. Designed as a foundational automation project, it simulates real-world traffic signal operations by controlling red, yellow, and green lights in a sequential and timed manner.
 🔧 Key Features include - Implementation of ladder logic to simulate timed traffic light control for single or multi-lane intersections, with support for emergency overrides. Designed for simulation or deployment on Siemens S7-1200 PLCs.
