@@ -20,19 +20,19 @@
 - Engineered and deployed embedded-AI predictive-maintenance modules—retrofitting legacy assets and integrating ML algorithms into SCADA data streams—to cut unplanned downtime by 25 %, accelerate anomaly detection by 40 %, and extend equipment life cycles, reducing capital expenditure by 15 %.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Ac to Ac Diode Bridge Rectifier
+[The University of Tulsa- EEE Projects](/projects/university_of_tulsa/Chidinma_Idonor_P.E_Midterm_Project_Report.pdf)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a systematic approach to evaluating AC–DC conversion topologies by comparing circuit configurations and analyzing current waveforms using Fast Fourier Transform (FFT). This method enabled precise quantification of harmonic distortion and demonstrated the effectiveness of passive filtering components in improving power quality. The results offer a scalable, component-aware framework for optimizing conversion efficiency in diverse power electronic applications.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Power Electronics](/)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Image Classification using a Convolutional Neural Network (University of Tulsa - Neural Network Midterm Project)
+[The University of Tulsa- EEE Projects](/)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Designed and optimized a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset across ten object categories. Implemented advanced regularization techniques—including dropout, data augmentation, and batch normalization—to mitigate overfitting and improve generalization. Iterative architecture tuning and hyperparameter refinement led to a significant boost in validation accuracy, demonstrating practical expertise in deep learning model development and evaluation.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Image Classification]()
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
