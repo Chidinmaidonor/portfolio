@@ -38,7 +38,8 @@ Developed a systematic approach to evaluating AC–DC conversion topologies by c
 
 Designed and optimized a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset across ten object categories. Implemented advanced regularization techniques—including dropout, data augmentation, and batch normalization—to mitigate overfitting and improve generalization. Iterative architecture tuning and hyperparameter refinement led to a significant boost in validation accuracy, demonstrating practical expertise in deep learning model development and evaluation.
 
-<img src="/assets/img/cvv.jpg" alt="CNN Image Classification" width="50" height="50"/>
+  <img src="assets/img/cvv.jpg" alt="CNN Image Classification" width="100" height="100"/>
+
 
 
 ## Talks & Lectures
