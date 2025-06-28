@@ -40,6 +40,7 @@ Designed and optimized a Convolutional Neural Network (CNN) to classify images f
 
  <img src="/assets/img/cvv.jpg" alt="CNN Image Classification" width="100" height="100"/>
 
+
 ## Talks & Lectures
 - A Preliminary Look at Artificial Intelligence Application in Space Medicine (A focus on skin disease prediction in mars) - Dean's Seminar, Spring 2025
 - A Brief Introduction to Transformer Model(Neural Networks) - EEE Seminar, Spring 2025
