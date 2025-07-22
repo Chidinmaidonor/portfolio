@@ -4,10 +4,7 @@ logo: /assets/img/headshot_circle.jpg
 show_downloads: false
 # Custom additions
 education:
-  - degree: B.Sc. Electrical and Electronics Engineering
-    institution: University of Lagos
-    year: 2020
-  - degree: M.Sc. Computer Engineering
-    institution: Syracuse University
-    year: In Progress
+  - degree: M.Sc. Electrical/Computer Engineering
+    institution: The University of Tulsa
+    year: 2025 - 2026
 theme: jekyll-theme-minimal
