@@ -2,4 +2,12 @@ title: Chidinma Idonor
 logo: /assets/img/headshot_circle.jpg
 #description: text below image
 show_downloads: false
+# Custom additions
+education:
+  - degree: B.Sc. Electrical and Electronics Engineering
+    institution: University of Lagos
+    year: 2020
+  - degree: M.Sc. Computer Engineering
+    institution: Syracuse University
+    year: In Progress
 theme: jekyll-theme-minimal
