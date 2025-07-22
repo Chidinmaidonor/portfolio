@@ -1,3 +1,17 @@
+---
+layout: default
+---
+
+<div align="center">
+
+## 🎓 Education
+
+**M.Sc. Electrical/Computer Engineering**  
+*The University of Tulsa*  
+2025 – 2026
+
+</div>
+
 # Systems Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, PLC/Automation, Arduino
