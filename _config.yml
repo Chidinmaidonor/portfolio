@@ -1,3 +1,13 @@
+remote_theme: mmistakes/minimal-mistakes
+title: Chidinma Idonor
+logo: /assets/img/headshot_circle.jpg
+minimal_mistakes_skin: "default"
+
+
+
+
+
+
 title: Chidinma Idonor
 logo: /assets/img/headshot_circle.jpg
 theme: jekyll-theme-minimal
