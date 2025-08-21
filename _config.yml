@@ -3,6 +3,10 @@ title: Chidinma Idonor
 logo: /assets/img/headshot_circle.jpg
 minimal_mistakes_skin: "default"
 
+plugins:
+  - jekyll-remote-theme
+
+
 
 
 
